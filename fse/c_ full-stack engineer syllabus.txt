@@ -1,23 +1,18 @@
-10%
-Web Development Foundations
+Codecademy Full Stack Engineer Syllabus
+
+01. Web Development Foundations
 Get started with the foundations. By the end of this section, you'll be able to build a stylized and responsive website with HTML and CSS.
 Welcome to the Full-Stack Engineer Path
-6% progress
-6%
 Fundamentals of HTML
 Fundamentals of CSS
 Developing Websites Locally
 Deploying Websites
 Improved Styling with CSS
 Making a Website Responsive
-Certification exam
-Objective assessment — Part 1
-Take exam
-Certification exam
-Objective assessment — Part 2
-Take exam
+Certification exam, Objective assessment — Part 1
+Certification exam, Objective assessment — Part 2
 
-Building Interactive Websites
+02. Building Interactive Websites
 Build interactive sites using JavaScript and host it on a remote GitHub repository.
 JavaScript Syntax, Part I
 JavaScript Syntax, Part II
@@ -26,14 +21,10 @@ Portfolio Project: JavaScript Syntax
 Building Interactive Websites
 Making A Website Accessible
 Portfolio Project: Personal Portfolio Website
-Certification exam
-Objective assessment — Part 1
-Take exam
-Certification exam
-Code challenge — Part 2
-Take exam
+Certification exam, Objective assessment — Part 1
+Certification exam, Code challenge — Part 2
 
-Front-End Development
+03. Front-End Development
 The front-end skills you'll need to create and deploy interactive applications, like a single-page web app that handles user actions.
 JavaScript Syntax, Part III
 JavaScript Testing
@@ -44,14 +35,10 @@ React, Part II
 Redux
 Git and GitHub, Part II
 Portfolio Project: Reddit Client
-Certification exam
-Objective assessment — Part 1
-Take exam
-Certification exam
-Objective assessment — Part 2
-Take exam
+Certification exam, Objective assessment — Part 1
+Certification exam, Objective assessment — Part 2
 
-Back-End Development
+04. Back-End Development
 Fundamentals of back-end development: creating a RESTful API that serves data and designing relational databases,
 Introduction to Back-End
 Build a Back-end with Express.js
@@ -64,14 +51,10 @@ Advanced PostgreSQL
 Adding a PostgreSQL Database
 API Development with Swagger and OpenAPI
 Portfolio Project: E-Commerce App (REST API)
-Certification exam
-Objective assessment — Part 1
-Take exam
-Certification exam
-Objective assessment — Part 2
-Take exam
+Certification exam, Objective assessment — Part 1
+Certification exam, Objective assessment — Part 2
 
-Full-Stack Development
+05. Full-Stack Development
 Bridge your front-end and back-end knowledge. Learn how to build secure full-stack applications and underlying operating system fundamentals
 Connecting Front-End to Back-End
 Deploying Web Applications
@@ -81,14 +64,10 @@ Common Attacks on Web Applications
 Fundamentals of Operating Systems
 DevOps Fundamentals
 Portfolio Project: E-Commerce App (Client)
-Certification exam
-Objective assessment — Part 1
-Take exam
-Certification exam
-Code challenge — Part 2
-Take exam
+Certification exam, Objective assessment — Part 1
+Certification exam, Code challenge — Part 2
 
-Interview Prep
+06. Interview Prep
 It's important to learn technical interview skills to help you land your target role.
 What To Expect in a Technical Interview
 Linear Data Structures
@@ -98,9 +77,5 @@ Search & Graph Search Algorithms
 Interview Skills
 Portfolio Project: Open-Ended PERN App
 Next Steps in Your Full-Stack Engineer Journey
-Certification exam
-Objective assessment — Part 1
-Take exam
-Certification exam
-Code challenge — Part 2
-Take exam
+Certification exam, Objective assessment — Part 1
+Certification exam, Code challenge — Part 2
