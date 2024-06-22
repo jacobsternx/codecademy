@@ -632,14 +632,12 @@ SEMANTIC HTML
 Article and Section
 4 min
 Now that we covered the body of Semantic HTML, let’s focus on what can go in the body. The two elements we’re going to focus on now are \<section> and \<article>.
-
 \<section> defines elements in a document, such as chapters, headings, or any other area of the document with the same theme. For example, content with the same theme such as articles about cricket can go under a single \<section>. A website’s home page could be split into sections for the introduction, news items, and contact information.
 
 Here is an example of how to use \<section>:
 ```
 <section>
-  <h2>Fun Facts About Cricket</h2> 
-</section>
+  <h2>Fun Facts About Cricket</h2> </section>
 ```
 In the code above we created a \<section> element to encapsulate the code. In \<section> we added a \<h2> element as a heading.
 
@@ -756,4 +754,40 @@ src: specifies the URL of the audio file.
 As you might have noticed, we already used the src attribute in the example code above. Most attributes go in the opening tag of \<audio>. For example, here’s how we could add both autoplay functionality and audio controls:
 
 \<audio autoplay controls>
+
+### Semantic HTML
+Video and Embed
+6 min
+As demonstrated in the previous exercise, media content can be a useful addition to a website. By using a \<video> element, we can add videos to our website. The \<video> element makes it clear that a developer is attempting to display a video to the user.
+
+Some attributes that can alter a video playback include:
+
+controls: When added in, a play/pause button will be added onto the video along with volume control and a fullscreen option.
+autoplay: The attribute which results in a video automatically playing as soon as the page is loaded.
+loop: This attribute results in the video continuously playing on repeat.
+Below is an example of \<video> being used with the controls attribute:
+
+\<video src="coding.mp4" controls>Video not supported</video>
+
+In the code above, a video file named coding.mp4 is being played. The “Video not supported” will only show up if the browser is unable to display the video.
+
+Another tag that can be used to incorporate media content into a page is the \<embed> tag, which can embed any media content including videos, audio files, and gifs from an external source. This means that websites that have an embed button have some form of media content that can be added to other websites. The \<embed> tag is a self-closing tag, unlike the \<video> element. Note that \<embed> is a deprecated tag and other alternatives, such as \<video>, \<audio> and \<img>, should be used in its place, but is being taught for legacy purposes.
+
+Below we’ll take a look at \<embed> being used in action.
+
+\<embed src="download.gif"/>
+
+In the example above, \<embed> is being used to add in a gif from a local file known as download.gif. Embed can be used to add local files as well as media content straight from some other websites.
+
+** Note: Forum points out that \<embed> used to be used for gif and flash, but that flash is no longer supported and \<img src=“download.gif”> can be used for gif, so use \<video>, \<img>, or \<audio>.
+
+### Practice
+
+\<section> defines elements in a document, such as chapters, headings, or any other area of the document with the same theme. \<article> holds content that makes sense on its own such as articles, blogs, and comments. Generally developers will use \<section> to define a theme for the webpage and use \<article> to write independent content for that theme. 
+
+Element Placement
+
+Semantic HTML introduces elements that can tell developers exactly what the element does or where it’s placed based on the name of that element. Some of these elements are \<header>, \<nav>, \<main>, and \<footer>. \<header> describes the content at the top of the page \<body>. It may include a logo, navigational links or a search bar. \<nav> encapsulates the page’s navigational links. It is often placed inside the \<header> or \<footer>. \<main> encapsulates the main content of a page between the header/navigation and the footer areas. \<footer> includes the page’s footer content at the bottom of the \<body>.
+
+Note that \<embed> and \<video>, if they were both supported, would both provide semantic information, however \<video> would provide more semantical specificity.
 
