@@ -791,3 +791,145 @@ Semantic HTML introduces elements that can tell developers exactly what the elem
 
 Note that \<embed> and \<video>, if they were both supported, would both provide semantic information, however \<video> would provide more semantical specificity.
 
+### NYC Blog
+Web Development Foundations
+New York City Blog
+After researching New York City, you decide to create a blog for your viewers who want to know more about the city. It’s time to create a blog to show off how amazing the Big Apple is. You got this!
+
+Don’t forget to save your code after each step. By pressing save to run your code you will see the changes you’ve made in the browser.
+
+Note: While you are developing the webpage, you will notice that the elements are automatically assigned colors, borders, and positioned properly. This is because of the CSS file. Don’t worry about CSS right now, it’s only there so that the webpage looks nice.
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a href="#blog">Blog</a>
+        </li>
+        <li>
+          <a href="#media">Media</a>
+        </li>
+        <li>
+          <a href="#about">About</a>
+        </li>
+      </ul>
+    </nav>
+    <header>
+      <h1>New York City</h1>
+    </header>
+    <main>
+      <section id="blog">
+        <article>
+          <p>New York City is made up of five boroughs which include Queens, Manhattan, Brooklyn, the Bronx, and Staten Island. The city is the home of approximately 8 million people. In 1876, France gifted the City of New York what is known as the Statue of Liberty, which is currently located on Liberty Island and commonly visited by tourists. However, it took 10 years to assemble and therefore wasn’t unveiled until 1886. Another tourist destination is Times Square. Times Square is commonly known for the big buildings, Broadway shows, and bright neon signs. This famous location was named after The New York Times after the Times moved to that location. Prior to that, it was named Longacre Square. New York City is also known for its bridges that connect the boroughs and allow ease of transportation.</p>
+          <h2>The Scenery in NYC</h2>
+        </article>
+        <figure>
+          <img src="https://content.codecademy.com/courses/Semantic%20HTML/statue-of-liberty.jpeg">
+          <figcaption>This is the Statue of Liberty, a popular tourist attraction located on Liberty Island. </figcaption>
+        </figure>
+      </section>
+      <aside>
+        <p>New York City is very popular for the variety of great food it has. Some of the top food items in NYC include:
+        <ol>
+          <li>Pizza</li>
+          <li>Bagels</li>
+          <li>Burgers and Sandwiches</li>
+          <li>Ramen</li>
+          <li>Tacos</li>
+          <li>Pasta</li>
+          <li>Desserts</li>
+        </ol>
+        </p>
+      </aside>
+      <section id="media">
+        <article>
+          <h2>The Scenery in NYC</h2>
+          <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.</p>
+        </article>
+        <video src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline-timelapse.mp4" controls></video>
+        <embed src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline.jpeg">
+        </embed>
+        <audio controls>
+          <source src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov" type="audio/mpeg">
+        </audio>
+      </section>
+    </main>
+    <footer>
+      <p>Posted by: Jacob Stern</p>
+      <p>Contact information: Codecademy.com</p>
+    </footer>
+  </body>
+  ```
+
+  ### Review: Fundamentals of HTML
+In this unit, you learned about the fundamentals of HTML.
+
+Congratulations! The goal of this unit was to get an introduction to the fundamentals of HTML, one of the languages essential to developing websites.
+
+Having completed this unit, you are now able to:
+
+Understand how HTML is used for web development
+Use HTML to build a structure for a website
+Create tables in HTML documents
+Write clearer, more accessible HTML using Semantic HTML tags
+If you are interested in learning more about these topics, here are some additional resources:
+
+Book: HTML & CSS, Jon Duckett, Chapters 1-5 (pp. 12-124)
+Learning is social. Whatever you’re working on, be sure to connect with the Codecademy community in the forums. Remember to check in with the community regularly, including for things like asking for code reviews on your project work and providing code reviews to others in the projects category, which can help to reinforce what you’ve learned.
+
+"Create a table header at the top of the table with one row and three cells labeling the columns: Name, Feet, and Wings."
+```
+<!doctype html>
+
+<html>
+  <head>
+    <link href="./styles.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Animal Facts</h1>
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Feet</th>
+          <th scope="col">Wings</th>
+        </tr>
+      </thead>
+      <tr>
+        <td>Chicken</td>
+        <td>2</td>
+        <td>2</td>
+      </tr>
+      <!-- Trimmed rows: Whale, Griffin, Millipede, Butterfly -->
+    </table>
+    
+  </body>
+</html>
+```
+"Include three <td> elements in your header row."
+Apparently, this question wanted th elements to be replaced with td elements???
+
+"Add link to image element to be taken to WIkipedia page on separate tab."
+```
+<!doctype html>
+<html>
+  <head>
+    <title>Cindy Sherman</title>
+  </head>
+  <body>
+    <a href="https://en.wikipedia.org/wiki/Cindy_Sherman" target="_blank">
+      <img
+        width="350"
+        src="https://content.codecademy.com/practice/code-challenges/sherman.jpeg"
+        alt="Cindy Sherman, Untitled Film Still 21"
+      />
+    </a>
+  </body>
+</html>
+```

@@ -1,0 +1,166 @@
+Codecademy Full Stack Engineer Syllabus
+
+FSE1 Web Development Foundations
+By the end of this section, you'll be able to build a stylized and responsive website with HTML and CSS.
+
+Fundamentals of HTML
+Fundamentals of CSS
+Developing Websites Locally
+Deploying Websites
+Improved Styling with CSS
+Making a Website Responsive
+Certification exam, Objective assessment — Part 1
+Certification exam, Objective assessment — Part 2
+
+Section: FSE1 : Web Development Foundations
+Course:     # : Fundamentals of HTML
+Lesson:     # : HTML Anatomy
+Unit:       # : Exercise/Quiz/Material/Forum/Comment
+
+
+
+1.1.0. Introduction: Fundamentals of HTML
+1.1.1. Informational Introduction: Fundamentals of HTML
+
+1.2.0. Learn HTML: Elements
+1.2.1. Lesson: Introduction to HTML
+HTML Anatomy
+The Body
+HTML Structure
+Headings
+Divs
+Attributes
+Displaying Text
+Styling Text
+Line Breaks
+Unordered Lists
+Ordered Lists
+Images
+Image Alts
+Videos
+Review
+1.2.2. Quiz: Introduction to HTML
+Project: Brown Bear Blog
+
+1.3.0. Learn HTML: Structure
+1.3.1. HTML Document Standards
+1.3.2. Quiz: HTML Document Standards
+1.3.4. Aritcle: Intro to Mozilla Developer Network
+1.3.5. Article: HTML on MDN Web Docs: Debugging
+1.3.6. Project: Fashion Blog
+
+1.4.0. Learn HTML: Tables
+1.4.1. HTML Tables 
+1.4.2. Quiz HTML Tables
+1.4.3. Project: Wine Festival Schedule
+
+1.5.0. Semantic HTML
+1.5.1. Semantic HTML
+Header and Nav
+Main and Footer
+Article and Section
+Aside
+Figure and Figcaption
+Audio and Attributes
+Video and Embed
+Practice
+1.5.2. Quiz: Semantic HTML
+1.5.3. Project: New York City Blog
+
+1.6.0. Review: Fundamentals of HTML
+1.6.1. Review: Fundamentals of HTML
+
+
+
+Course: Fundamentals of CSS
+
+2.1.0. Introduction: Fundamentals of CSS
+2.1.1. Introduction: Fundamentals of CSS
+
+2.2.0. Learn CSS: Selectors and Visual Rules
+2.2.1. Setup and Syntax
+2.2.2. Selectors
+2.2.3. Quiz: Setup and Selectors
+2.2.4. Visual Rules
+2.2.5. Quiz: Visual Rules
+2.2.6. Docs: Documentation: CSS
+2.2.7. Project: Healthy Recipes
+2.2.8. Project: Olivia Woodruff Portfolio
+
+2.3.0. Learn CSS: The Box Model
+2.3.1. The Box Model
+2.3.2. Changing the Box Model
+2.3.3. Quiz: Box Model
+2.3.4. Aritcle: The Box Model in DevTools
+2.3.5. Video: The Box Model in DevTools
+2.3.6: Project: The Box Model: Davie's Burgers
+
+2.4.0. Learn CSS: Display and Positioning
+2.4.1. Learn CSS: Display and Positioning
+
+2.5.0. Review: Fundamentals of CSS
+2.5.1. Review: Fundamentals of CSS
+
+1.
+
+02. Building Interactive Websites
+Build interactive sites using JavaScript and host it on a remote GitHub repository
+
+JavaScript Syntax, Part I
+JavaScript Syntax, Part II
+Git and GitHub, Part I
+Portfolio Project: JavaScript Syntax
+Building Interactive Websites
+Making A Website Accessible
+Portfolio Project: Personal Portfolio Website
+
+03. Front-End Development
+The front-end skills you'll need to create and deploy interactive applications, like a single-page web app that handles user actions.
+JavaScript Syntax, Part III
+JavaScript Testing
+Async JavaScript and HTTP Requests
+Web Apps
+React, Part I
+React, Part II
+Redux
+Git and GitHub, Part II
+Portfolio Project: Reddit Client
+
+04. Back-End Development
+Fundamentals of back-end development: creating a RESTful API that serves data and designing relational databases,
+Introduction to Back-End
+Build a Back-end with Express.js
+User Authentication & Authorization
+Back-End and Feature Testing
+Database Basics
+Working with Databases
+Designing Relational Databases
+Advanced PostgreSQL
+Adding a PostgreSQL Database
+API Development with Swagger and OpenAPI
+Portfolio Project: E-Commerce App (REST API)
+
+05. Full-Stack Development
+Bridge your front-end and back-end knowledge. Learn how to build secure full-stack applications and underlying operating system fundamentals
+Connecting Front-End to Back-End
+Deploying Web Applications
+Web Security Fundamentals
+Data Security
+Common Attacks on Web Applications
+Fundamentals of Operating Systems
+DevOps Fundamentals
+Portfolio Project: E-Commerce App (Client)
+
+06. Interview Prep
+It's important to learn technical interview skills to help you land your target role.
+What To Expect in a Technical Interview
+Linear Data Structures
+Complex Data Structures
+Algorithms
+Search & Graph Search Algorithms
+Interview Skills
+Portfolio Project: Open-Ended PERN App
+Next Steps in Your Full-Stack Engineer Journey
+
+Certification exam, Objective assessment — Part 1
+Certification exam, Code challenge — Part 2
