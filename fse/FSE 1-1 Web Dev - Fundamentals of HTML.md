@@ -1,7 +1,23 @@
-fse 01 web development foundations
+## 1. Web Development Foundations
+FSE 1-0 Web Development Foundations
+Get started with the foundations. By the end of this section, you'll be able to build a stylized and responsive website with HTML and CSS
+### Welcome to the Full-Stack Engineer Path
+(thank you)
+### Fundamentals of HTML
+FSE 1-1 Web Dev - Fundamentals of HTML
+### Fundamentals of CSS
+FSE 1-2 Web Dev - Fundamentals of CSS
+### Developing Websites Locally
+FSE 1-3 Web Dev - Developing Websites Locally
+### Deploying Websites
+FSE 1-4 Web Dev - Deploying Websites
+### Improved Styling with CSS
+FSE 1-5 Web Dev - Improved Styling with CSS
+## Making a Website Responsive
+FSE 1-6 Web Dev - Making a Website Responsive
+Certification exam, Objective assessment I and II
 
-Get started with the foundations. By the end of this section, you'll be able to build a stylized and responsive website with HTML and CSS.
-Note: The first section includes learning units 1-6
+---
 
 1.0.0. Fundamentals of HTML
 1.0.1. Introduction: Fundamentals of HTML
@@ -48,33 +64,6 @@ Note: The first section includes learning units 1-6
 1.4.10. Project: New York City Blog
 
 1.5.0 Review: Fundamentals of HTML
-
-Certification exam, Objective assessment — Parts 1 and 2
-
-2. Fundamentals of CSS
-Learn how to apply styles to HTML documents using CSS.
-
-Certification exam, Objective assessment — Parts 1 and 2
-
-3. Developing Websites Locally
-Get acquainted with the tools used to build websites outside the Codecademy IDE.
-
-Certification exam, Objective assessment — Parts 1 and 2
-
-4. Deploying Websites
-Learn how to deploy websites using GitHub Pages and the command line.
-
-Certification exam, Objective assessment — Parts 1 and 2
-
-5. Improved Styling with CSS
-Use intermediate-level CSS to customize styles and implement navigation elements.
-
-Certification exam, Objective assessment — Parts 1 and 2
-
-6. Making a Website Responsive
-Learn how to utilize responsive web design practices using CSS grid, flexbox, and media queries.
-
-Certification exam, Objective assessment — Parts 1 and 2
 
 ---
 

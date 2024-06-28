@@ -1,0 +1,54 @@
+Course: Fundamentals of HTML
+In this unit, you'll be introduced to the fundamentals of HTML.
+
+1.1.0. Introduction: Fundamentals of HTML
+1.1.1. Informational Introduction: Fundamentals of HTML
+
+1.2.0. Learn HTML: Elements
+1.2.1. Lesson: Introduction to HTML
+HTML Anatomy
+The Body
+HTML Structure
+Headings
+Divs
+Attributes
+Displaying Text
+Styling Text
+Line Breaks
+Unordered Lists
+Ordered Lists
+Images
+Image Alts
+Videos
+Review
+
+1.2.2. Quiz: Introduction to HTML
+Project: Brown Bear Blog
+
+1.3.0. Learn HTML: Structure
+1.3.1. HTML Document Standards
+1.3.2. Quiz: HTML Document Standards
+1.3.4. Aritcle: Intro to Mozilla Developer Network
+1.3.5. Article: HTML on MDN Web Docs: Debugging
+1.3.6. Project: Fashion Blog
+
+1.4.0. Learn HTML: Tables
+1.4.1. HTML Tables 
+1.4.2. Quiz HTML Tables
+1.4.3. Project: Wine Festival Schedule
+
+1.5.0. Semantic HTML
+1.5.1. Semantic HTML
+Header and Nav
+Main and Footer
+Article and Section
+Aside
+Figure and Figcaption
+Audio and Attributes
+Video and Embed
+Practice
+1.5.2. Quiz: Semantic HTML
+1.5.3. Project: New York City Blog
+
+1.6.0. Review: Fundamentals of HTML
+1.6.1. Review: Fundamentals of HTML

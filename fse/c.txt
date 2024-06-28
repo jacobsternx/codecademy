@@ -1,0 +1,45 @@
+1.0.0. Fundamentals of HTML
+1.0.1. Introduction: Fundamentals of HTML
+
+1.1.0. Learn HTML: Elements
+1.1.1. Introduction to HTML
+1.1.2. HTML Anatomy
+1.1.3. The Body
+1.1.4. HTML Structure
+1.1.5. Headings
+1.1.6. Divs
+1.1.7. Attributes
+1.1.8. Displaying Text
+1.1.9. Styling Text
+1.1.10. Line Breaks
+1.1.11. Unordered Lists
+1.1.12. Ordered Lists
+1.1.13. Images
+1.1.14. Image Alts
+1.1.15. Videos
+1.1.16. Review
+1.1.17. Project: Brown Bear Blog
+
+1.2.0. Learn HTML: Structure
+1.2.1. HTML Document Standards
+1.2.2. Intro to Mozilla Developer Network
+1.2.3. HTML on MDN Web Docs: Debugging
+1.2.4. Project: Fashion Blog
+
+1.3.0 Learn HTML: Tables
+1.3.1. HTML Tables 1 and 2
+1.3.2. Project: Wine Festival Schedule
+
+1.4.0. Semantic HTML
+1.4.1. Intro to Semantic HTML
+1.4.2. Header and Nav
+1.4.3. Main and Footer
+1.4.4. Article and Section
+1.4.5. The Aside Element
+1.4.6. Figure and Figcaption
+1.4.7. Audio and Attributes
+1.4.8. Video and Embed
+1.4.9. Review
+1.4.10. Project: New York City Blog
+
+1.5.0 Review: Fundamentals of HTML

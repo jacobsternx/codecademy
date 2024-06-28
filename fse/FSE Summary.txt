@@ -18,6 +18,8 @@ Lesson:     # : HTML Anatomy
 Unit:       # : Exercise/Quiz/Material/Forum/Comment
 
 
+Course: Fundamentals of HTML
+In this unit, you'll be introduced to the fundamentals of HTML.
 
 1.1.0. Introduction: Fundamentals of HTML
 1.1.1. Informational Introduction: Fundamentals of HTML
@@ -39,6 +41,7 @@ Images
 Image Alts
 Videos
 Review
+
 1.2.2. Quiz: Introduction to HTML
 Project: Brown Bear Blog
 
@@ -101,7 +104,7 @@ Course: Fundamentals of CSS
 2.5.0. Review: Fundamentals of CSS
 2.5.1. Review: Fundamentals of CSS
 
-1.
+
 
 02. Building Interactive Websites
 Build interactive sites using JavaScript and host it on a remote GitHub repository
