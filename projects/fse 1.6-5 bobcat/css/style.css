@@ -377,42 +377,29 @@
 
   #quote-section.content-section.center {
     background-color: #dae3c8;
-  }
-
-  #quote-section.content-section.center {
     padding: 5rem 0;
   }
 
   #quote-section.content-section.center .quote {
-    padding-right: 1.875rem;
     font-family: "Palatino", serif;
     font-size: 1.875rem;
     line-height: 1.1;
     font-style: italic;
+    padding-right: 1.875rem;
     color: #4a4a4a;
   }
-
-  #quote-section {
-    height: 1.875rem;
-  }
   
-  @media only screen and (max-width: 47.5rem) {
-    #quote-section .content-section {
-      padding: 1.875rem .625rem;
-    }
-  
-    #quote-section .quote {
+  @media only screen and (max-width: 55.875rem) { 
+    #quote-section.content-section.center .quote  {
       font-size: 1.5rem;
-      line-height: 1.4;
-    }
-  
-    #quote-section {
-      display: block;
-      padding-top: 1rem;
-      margin: auto;
     }
   }
 
+  @media only screen and (max-width: 47.5rem) {
+    #quote-section.content-section.center .quote  {
+      font-size: 1.1rem;
+    }
+  }
 
   /* People section */
 
