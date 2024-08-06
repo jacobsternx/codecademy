@@ -342,7 +342,7 @@
 
  @media only screen and (max-width: 37.5rem) {
     #filters-section {
-      padding: 1.5rem 0 0 0;
+      padding: 1.5rem 0;
     }
   
     #filters-section.content-section {
@@ -381,7 +381,7 @@
   }
 
   #quote-section.content-section.center .quote {
-    font-family: "Palatino", serif;
+    font-family: "Rancho", serif;
     font-size: 1.875rem;
     line-height: 1.1;
     font-style: italic;
@@ -391,13 +391,13 @@
   
   @media only screen and (max-width: 55.875rem) { 
     #quote-section.content-section.center .quote  {
-      font-size: 1.5rem;
+      font-size: 1.625rem;
     }
   }
 
   @media only screen and (max-width: 47.5rem) {
     #quote-section.content-section.center .quote  {
-      font-size: 1.1rem;
+      font-size: 1.5rem;
     }
   }
 
@@ -412,6 +412,7 @@
     font-size: 2.25rem;
     font-weight: bold;
     color: white;
+    padding: 1rem 0;
   }
 
   #people-section.content-section h3 {
@@ -431,10 +432,7 @@
   
   @media only screen and (max-width: 37.5rem) {
     #people-section.content-section {
-      padding: 1.5rem 0 0 0;
-    }
-
-    #people-section.content-section {
+      padding: 1.5rem 0;
       margin-bottom: 1rem;
     }
 
@@ -467,9 +465,7 @@
     color: white;
     display: flex;
     font-size: .75rem;
-  }
-
-  footer .copyright {
+    line-height: 1rem;
     flex-grow: 1;
   }
 
@@ -478,4 +474,3 @@
       font-size: .625rem;
     }
   }
-  
