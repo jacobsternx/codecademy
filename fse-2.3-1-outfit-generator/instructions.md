@@ -3,6 +3,7 @@ Message generator that creates randomized outfits
 Outfits include: Shirt, Pants, Shoes, and Accessory
 Categories are stored as arrays of strings in an items object
 Offline, Node.js, Kanban:
+
 * Plan your project
     Visualize your end result. What is it built with? What can it do? Make sure that it satisfies all of the project objectives.
     Make a timeline for yourself and avoid the temptation to build things that aren’t required. Setting firm boundaries and deadlines will keep you on track and prevent scope creep. The following tasks will help you identify natural break points.
